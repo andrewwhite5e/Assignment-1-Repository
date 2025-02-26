@@ -1,6 +1,6 @@
 ﻿The repo that I am using for Assignment 1 with gitignore. I had to remove some exemplar maps from the jupyter notebooks in order to allow them to fit in the 50mb upload limit (all challenge information should be intact).
 
-I tried to use onedrives built in share functionality and urllib.request.urlretrieve() to download the files in the jupyter notebook however, it did not work due to the requirement to be signed in to a microsoft account.
+I tried to use onedrives built in share functionality and urllib.request.urlretrieve() to download the files in the jupyter notebook however, I got a permission denied error.
 
 So, I have the direct download links in the notebooks pointing to the files on my server. Just run and it should work. Otherwise, for contingency I have provided the links for the files in Onedrive.
 
